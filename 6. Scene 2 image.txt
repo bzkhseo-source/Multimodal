@@ -1,0 +1,19 @@
+﻿업로드 참조 이미지
+Mother
+Baby
+Product
+Room
+Scene1
+//Prompt
+
+Using all attached reference images, create Scene 2.
+The same mother gently places the AgapeSync cushion beside the baby.
+She opens the smartphone app.
+However, she continues looking at the baby rather than the phone.
+The phone remains visually secondary.
+The product naturally blends into the nursery.
+Everything feels calm, warm and emotionally reassuring.
+The heart LED remains turned off.
+Over-the-shoulder composition.
+Luxury commercial photography.
+Ultra photorealistic.

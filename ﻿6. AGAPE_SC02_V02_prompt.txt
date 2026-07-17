@@ -1,0 +1,38 @@
+﻿업로드 참조 이미지
+Mother
+Baby
+Product
+Room
+Scene1
+
+//Prompt
+﻿Using all attached AgapeSync reference images, recreate Scene 2 while preserving the same mother, baby, product, nursery, lighting, and emotional atmosphere.
+The mother gently places the AgapeSync cushion beside her baby.
+She quietly opens the smartphone application.
+The smartphone is only a supporting tool.
+The mother's eyes remain focused on the baby rather than the phone.
+One hand naturally rests on the baby's blanket.
+The AgapeSync cushion blends seamlessly into the nursery as if it naturally belongs there.
+The heart-shaped LED remains turned off.
+Warm morning sunlight softly illuminates the room.
+Camera positioned behind the mother's shoulder.
+Medium close-up.
+Natural composition.
+Technology remains visually secondary.
+Emotion comes first.
+The viewer should immediately feel,
+"The mother's attention never leaves her child."
+Captured using a cinema camera.
+50mm prime lens.
+Shallow depth of field.
+Warm Beige, Ivory, Soft Gold palette.
+Luxury commercial photography.
+Apple-inspired minimalism.
+Disney emotional storytelling.
+Samsung premium lifestyle realism.
+Ultra photorealistic.
+HDR.
+8K.
+Natural skin texture.
+Premium textile texture.
+Leave clean negative space in the upper-right corner.

@@ -1,0 +1,34 @@
+﻿업로드 참조 이미지
+Mother
+Baby
+Room﻿
+//Prompt
+﻿Using the attached AgapeSync Mother Reference, Baby Reference, Nursery Reference, and the previously generated Scene 1 image as visual references, recreate the opening hero shot while preserving the same characters, environment, lighting, and emotional tone.
+Frame only the emotional connection before introducing the product.
+A 30-year-old Korean mother gently wraps her warm hand around her six-month-old baby's tiny hand.
+The baby naturally curls its fingers around one of the mother's fingers.
+The touch feels instinctive, loving, safe, and completely authentic.
+Position the camera at the baby's eye level.
+Use an extreme close-up composition.
+Ensure the hands occupy approximately 60% of the frame.
+Lock the focus precisely on the fingertips.
+The mother's face remains softly out of focus in the background with a warm, reassuring smile.
+Soft morning sunlight filters through ivory curtains and gently illuminates the baby's skin.
+Maintain a premium Scandinavian nursery with no visual distractions.
+Use a Warm Beige, Ivory, and Soft Gold color palette.
+The image must communicate warmth before technology.
+The viewer should immediately feel:
+"This child is deeply loved."
+Captured using a cinema camera with a 50mm prime lens.
+Shallow depth of field.
+Soft cinematic bokeh.
+Natural skin texture.
+Premium textile texture.
+Luxury commercial photography.
+Apple-inspired minimalism.
+Disney emotional storytelling.
+Samsung premium lifestyle realism.
+Ultra photorealistic.
+HDR.
+8K.
+Leave generous clean negative space in the upper-right corner for future logo and slogan placement.

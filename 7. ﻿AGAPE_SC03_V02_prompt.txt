@@ -1,0 +1,33 @@
+﻿업로드 참조 이미지
+Scene3
+Product
+Baby
+Mother
+Room
+
+//Prompt
+﻿Using all attached AgapeSync reference images, recreate Scene 3 while maintaining identical characters, product, nursery, and lighting.
+The baby sleeps peacefully while gently resting beside the AgapeSync cushion.
+The heart-shaped LED emits an extremely soft warm-white pulse that resembles gentle breathing rather than electronic blinking.
+The baby's facial muscles appear relaxed.
+Tiny fingers naturally rest close to the cushion.
+Morning sunlight softly blends with the warm LED glow.
+No holograms.
+No futuristic lighting.
+No digital interface.
+Technology should almost disappear into the emotional atmosphere.
+The audience should notice comfort before technology.
+Close-up composition.
+85mm cinema portrait lens.
+Extremely shallow depth of field.
+Soft cinematic bokeh.
+Warm Beige, Ivory and Soft Gold.
+Luxury parenting commercial.
+Apple-inspired minimalism.
+Disney emotional storytelling.
+Samsung premium lifestyle realism.
+Ultra photorealistic.
+HDR.
+8K.
+Natural skin texture.
+Premium textile texture.
